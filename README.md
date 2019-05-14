@@ -1,5 +1,5 @@
 # Git Repo
 
-![./logo.png](Logo Github)
+![Logo Github](./logo.png)
 
 Este repositório serve de exemplo para Git e Github
